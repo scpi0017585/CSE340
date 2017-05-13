@@ -1,0 +1,17 @@
+{9999.00000000001 , REALNUM , 2}
+{x08 , ID , 2}
+{9999.00000000001 , REALNUM , 3}
+{x08 , ID , 3}
+{123x08 , BASE08NUM , 5}
+{123456.4 , REALNUM , 5}
+{123 , NUM , 6}
+{x09123456 , ID , 6}
+{ , DOT , 6}
+{7 , NUM , 6}
+{IFIF , ID , 8}
+{WHILEIF , ID , 8}
+{DOTHEN , ID , 8}
+{PRINTIF , ID , 8}
+{ , ERROR , 8}
+{ , ERROR , 8}
+{ , END_OF_FILE , 10}

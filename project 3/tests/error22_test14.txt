@@ -1,0 +1,6 @@
+VAR
+    x, y : STRING;
+    z : x;
+{
+    y = x;
+}

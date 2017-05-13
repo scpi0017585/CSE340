@@ -1,0 +1,5 @@
+{2 , NUM , 4}
+{ , SEMICOLON , 4}
+{3 , NUM , 4}
+{0.0000200 , REALNUM , 7}
+{ , END_OF_FILE , 9}

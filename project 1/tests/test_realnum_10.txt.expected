@@ -1,0 +1,4 @@
+{1.2 , REALNUM , 1}
+{ , DOT , 1}
+{3.4 , REALNUM , 1}
+{ , END_OF_FILE , 3}

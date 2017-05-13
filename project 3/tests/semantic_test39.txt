@@ -1,0 +1,18 @@
+TYPE
+     t1, t2: t;
+VAR
+     a: t1;
+     b: t2;
+{
+     WHILE a > b {
+         a = a + b;
+         a = a * b;
+     }
+     DO {
+         x = x / y;
+         x = x + b;
+         y = a;
+     } WHILE x <> b;
+     d = c;
+}
+

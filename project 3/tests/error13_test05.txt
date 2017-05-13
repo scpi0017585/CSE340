@@ -1,0 +1,8 @@
+TYPE
+    x : INT;
+VAR
+    x : INT;
+{
+    a = a + 1;
+}
+

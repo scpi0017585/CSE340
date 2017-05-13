@@ -1,0 +1,4 @@
+{34Ax16 , BASE16NUM , 2}
+{567x16 , BASE16NUM , 2}
+{x16 , ID , 2}
+{ , END_OF_FILE , 4}

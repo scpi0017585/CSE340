@@ -1,0 +1,5 @@
+{1 , NUM , 1}
+{ , DOT , 1}
+{abc , ID , 1}
+{3.1415 , REALNUM , 2}
+{ , END_OF_FILE , 4}

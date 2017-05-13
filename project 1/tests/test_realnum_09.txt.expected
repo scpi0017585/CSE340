@@ -1,0 +1,7 @@
+{cse340 , ID , 2}
+{ , DOT , 2}
+{12 , NUM , 2}
+{1.2 , REALNUM , 4}
+{ , LESS , 4}
+{2.4 , REALNUM , 4}
+{ , END_OF_FILE , 6}

@@ -1,0 +1,5 @@
+{0 , NUM , 1}
+{ , DOT , 1}
+{0 , NUM , 1}
+{0 , NUM , 1}
+{ , END_OF_FILE , 3}

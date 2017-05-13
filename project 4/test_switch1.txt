@@ -1,0 +1,28 @@
+
+i ;
+
+{
+i = 4 ;
+
+SWITCH i {
+CASE 1 : {
+print i ;
+}
+CASE 2 : {
+print i ;
+print i ;
+}
+CASE 3 : {
+print i ;
+print i ;
+print i ;
+}
+CASE 4 : {
+print i ;
+print i ;
+print i ;
+print i ;
+}
+}
+
+}

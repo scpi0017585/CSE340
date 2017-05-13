@@ -1,0 +1,7 @@
+TYPE
+    x, y, z: INT;
+    y, r : REAL;
+{
+    a = 1;
+}
+

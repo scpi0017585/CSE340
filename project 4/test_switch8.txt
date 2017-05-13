@@ -1,0 +1,33 @@
+i, j, k;
+{
+    i = 0;
+    j = 0;
+    k = 1000;
+
+    WHILE i < 10 {
+        print i;
+
+        SWITCH i {
+            CASE 0: {
+                j = 100;
+                print j;
+            }
+            CASE 3: {
+                j = 200;
+                print j;
+            }
+            CASE 5: {
+                j = 300;
+                print j;
+            }
+            DEFAULT: {
+                j = 400;
+                print j;
+            }
+        }
+
+        i = i + 1;
+    }
+
+    print k;
+}

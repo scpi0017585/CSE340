@@ -1,0 +1,7 @@
+TYPE
+    s, r, t : u;
+    u, v, w : INT;
+{
+    a = a * 1;
+}
+

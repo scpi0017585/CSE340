@@ -1,0 +1,9 @@
+VAR
+    a, b, c : INT;
+    d : BOOLEAN;
+    e, f : REAL;
+    g, h : LONG;
+{
+    a = f;
+}
+

@@ -1,0 +1,4 @@
+{18 , NUM , 1}
+{x08 , ID , 1}
+{0x08 , BASE08NUM , 2}
+{ , END_OF_FILE , 4}

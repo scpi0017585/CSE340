@@ -1,0 +1,9 @@
+TYPE
+    x, y : z;
+VAR
+    a, b : x;
+    b : INT;
+{
+    a = a + 1;
+}
+

@@ -1,0 +1,4 @@
+{1 , NUM , 1}
+{abcx16 , ID , 1}
+{1x16 , BASE16NUM , 2}
+{ , END_OF_FILE , 4}

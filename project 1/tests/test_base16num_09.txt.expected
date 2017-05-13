@@ -1,0 +1,5 @@
+{project2x16 , ID , 2}
+{1ABx16 , BASE16NUM , 3}
+{ , EQUAL , 3}
+{1BBx16 , BASE16NUM , 3}
+{ , END_OF_FILE , 5}

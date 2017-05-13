@@ -1,0 +1,32 @@
+
+i j k ;
+
+{
+i = 1 ;
+j = 5 ;
+k = 2 ;
+
+SWITCH i {
+CASE 1 : {
+	SWITCH j {
+	CASE 3 : {
+	i = 4;
+	}
+	CASE 5 : {
+	print k ;
+	}
+	}
+}
+CASE 4 : {
+print i ;
+print i ;
+print i ;
+print i ;
+}
+DEFAULT : {
+print i ; 
+print i ; 
+}
+}
+
+}

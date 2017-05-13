@@ -1,0 +1,13 @@
+{ABCDx16 , ID , 1}
+{8888 , NUM , 2}
+{x08 , ID , 2}
+{1 , NUM , 3}
+{ABCDEFGx16 , ID , 3}
+{12 , NUM , 4}
+{ABC , ID , 4}
+{ , DOT , 4}
+{4 , NUM , 4}
+{1.5 , REALNUM , 5}
+{1x08 , BASE08NUM , 5}
+{1x16 , BASE16NUM , 5}
+{ , END_OF_FILE , 7}

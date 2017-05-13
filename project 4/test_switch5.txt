@@ -1,0 +1,13 @@
+
+i ;
+
+{
+i = 2 ;
+
+SWITCH i {
+CASE 1 : {
+print i ;
+}
+}
+
+}

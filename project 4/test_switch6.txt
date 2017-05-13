@@ -1,0 +1,16 @@
+
+i, j ;
+
+{
+i = 2 ;
+
+SWITCH i {
+CASE 1 : {
+print i ;
+}
+}
+
+j = 4 ;
+print j ;
+
+}

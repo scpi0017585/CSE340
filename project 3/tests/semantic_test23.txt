@@ -1,0 +1,10 @@
+TYPE
+  t1, t2: t;
+VAR
+  a, b, c: t1;
+  x, y, z: t2;
+{
+    a = a * (b + (c / a) * (b + 1)) + 2 * c;
+    z = z + x / y * (5 + x);
+}
+

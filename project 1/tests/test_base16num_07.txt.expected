@@ -1,0 +1,4 @@
+{2345 , NUM , 2}
+{X16 , ID , 2}
+{1x16 , BASE16NUM , 3}
+{ , END_OF_FILE , 5}

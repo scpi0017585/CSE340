@@ -1,0 +1,4 @@
+{1234 , NUM , 3}
+{X08 , ID , 3}
+{0x08 , BASE08NUM , 5}
+{ , END_OF_FILE , 7}

@@ -1,0 +1,5 @@
+{project1x08 , ID , 2}
+{0x08 , BASE08NUM , 4}
+{ , GREATER , 4}
+{12x08 , BASE08NUM , 4}
+{ , END_OF_FILE , 6}
